@@ -1,0 +1,21 @@
+h1, h2 {
+    color: red;
+}
+
+
+.p1{
+    background-color: #000000;
+    color: white;
+}
+
+
+.p2{
+    background-color: red;
+    color: white;
+}
+
+
+article p{
+    background-colore:purple;
+    color: white;
+}

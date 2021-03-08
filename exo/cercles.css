@@ -1,0 +1,33 @@
+#cercle{
+    position: absolute;
+    top: 27%;
+    left: 13,5%;
+    height: 500px;
+    width: 500px;
+    background-color: red;
+    border-radius: 50%;
+    z-index: 3;
+}
+
+
+#cercle1{
+    position: absolute;
+    top: 16%;
+    left: 8%;
+    height: 300px;
+    width: 300px;
+    background-color:blue;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+
+#cercle2 {
+    position:relative;
+    height: 150px;
+    width: 150px;
+    background-color:purple;
+    border-radius: 50%;
+}
+
+

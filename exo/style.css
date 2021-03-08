@@ -1,0 +1,32 @@
+h1{ color: green;
+    font-size: 50px;
+    /* font-size permet de donner une taille au texte*/
+
+}
+
+
+
+
+
+
+
+
+
+/* color permet de changer la couleur du texte*/
+/* font-weight permet de mettre du gras au texte*/
+
+ol{ color: red;
+    font-weight: bold;
+
+}
+
+.histoire{
+    
+    border-color: turquoise;
+    border-style: dotted;size: 4px;
+    opacity: 0.5;
+}
+
+#premierp{
+    text-align: center 
+}
